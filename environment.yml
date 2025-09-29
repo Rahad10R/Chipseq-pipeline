@@ -1,0 +1,15 @@
+name: ChIPSeq
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - fastqc
+  - trimmomatic
+  - bowtie2
+  - samtools
+  - subread     # featureCounts
+  - macs2
+  - bedtools
+  - r-base
+  - bioconductor-deseq2
+  - r-ggplot2

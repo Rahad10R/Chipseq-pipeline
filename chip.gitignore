@@ -1,0 +1,20 @@
+# Raw data
+*.fastq
+*.fastq.gz
+
+# Alignment files
+*.sam
+*.bam
+*.bai
+
+# Logs
+*.log
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS junk
+.DS_Store
+Thumbs.db
